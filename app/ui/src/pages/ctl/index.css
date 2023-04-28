@@ -1,0 +1,13 @@
+.listItemTemp {
+    cursor: pointer;
+    padding: 2vw;
+    box-sizing: content-box;
+}
+
+.listItemTemp:hover {
+    border: 1px solid white;
+}
+
+.tempItemHolder {
+   overflow: scroll;
+}

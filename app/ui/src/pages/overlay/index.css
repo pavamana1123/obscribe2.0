@@ -1,0 +1,15 @@
+.overlayRoot {
+    display: flex;
+    position: absolute;
+    white-space: pre-line;
+    bottom: 0;
+    min-height: 0px;
+    width: 100vw;
+    height: auto;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    flex-direction: column;
+    transition: opacity .2s ease-in-out;
+}
